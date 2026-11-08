@@ -61,7 +61,7 @@ CAREER GOALS.
 
 I'm working toward an entry-level IT Help Desk or IT Support position where I can apply my technical knowledge, develop my troubleshooting abilities, and continue learning.
 
-Currently Learning
+CURRENTLY LEARNING
 
 IT Support fundamentals
 
