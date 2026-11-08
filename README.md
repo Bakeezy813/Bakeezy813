@@ -8,7 +8,7 @@ I am currently completing my Bachelor degree in computer information system and 
 
 I'm building my technical skills through hands-on IT projects, troubleshooting exercises, and continuous learning.
 
-Technical Skills
+TECHNICAL SKILLS.
 
 Windows 11 troubleshooting
 
@@ -41,7 +41,7 @@ Task Manager
 
 GitHub
 
-Featured Project
+FEATURED PROJECTS.
 
 IT Help Desk Troubleshooting Lab
 
@@ -57,7 +57,7 @@ Network route analysis
 
 Computer performance monitoring
 
-Career Goals
+CAREER GOALS.
 
 I'm working toward an entry-level IT Help Desk or IT Support position where I can apply my technical knowledge, develop my troubleshooting abilities, and continue learning.
 
