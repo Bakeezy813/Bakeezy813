@@ -74,9 +74,6 @@ Technical documentation
 Thanks for visiting my profile!
 
 
-
-
-
 Featured Project
 IT Help Desk Troubleshooting Lab
 
@@ -87,3 +84,12 @@ Network connectivity
 DNS troubleshooting
 Network route analysis
 Computer performance monitoring
+
+
+
+
+
+[IT Help Desk Troubleshooting Lab](https://github.com/Bakeezy813/IT-Help-Desk-Troubleshooting-Lab)
+
+
+
