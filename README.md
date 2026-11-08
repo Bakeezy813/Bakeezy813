@@ -72,3 +72,18 @@ Networking fundamentals
 Technical documentation
 
 Thanks for visiting my profile!
+
+
+
+
+
+Featured Project
+IT Help Desk Troubleshooting Lab
+
+My hands-on IT troubleshooting project demonstrating:
+
+IP configuration
+Network connectivity
+DNS troubleshooting
+Network route analysis
+Computer performance monitoring
